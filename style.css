@@ -1,0 +1,239 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.amar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgb(246, 92, 53);
+}
+
+.tomarr ul {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+.tomarr ul li {
+    margin-left: 20px;
+}
+
+.tomarr ul li a {
+    text-decoration: none;
+    color: rgb(246, 92, 53);
+    font-size: 25px;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.tomar img {
+    width: 270px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.apni {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.apnar {
+    margin-left: 70px;
+    margin-top: 100px;
+    width: 35%;
+    color: rgb(99, 97, 97);
+}
+
+.apnar h1 {
+    font-size: 55px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.apnar p {
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+}
+
+span {
+    color: rgb(246, 92, 53);
+    margin-right: 5px;
+}
+
+.apnarr img {
+    width: 500px;
+    margin-right: 180px;
+}
+
+.btn {
+    font-family: 'Kanit', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    background-image: linear-gradient(to right, rgb(255, 155, 130), rgb(236, 67, 25));
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+
+.boro {
+    display: flex;
+    background-image: url(pic/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 50px;
+}
+
+
+.coto img {
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+
+.cotoo {
+    width: 50%;
+    margin: 150px 200px 200px 200px;
+    color: rgb(99, 97, 97);
+}
+
+.cotoo h1 {
+    font-size: 55px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.cotoo p {
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.nana h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+.nana p {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+.photo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item {
+    width: 280px;
+    box-shadow: 3px 2px 17px 10px #eaeaea;
+    padding: 20px;
+    border-radius: 30px;
+
+
+}
+
+.img img {
+    width: 100%;
+}
+
+.conten h2 {
+    font-family: 'Kanit', sans-serif;
+}
+
+.conten p {
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+
+.lala {
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px 2px 17px 10px #eaeaea;
+    padding: 30px;
+
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.abba h2 {
+    margin-right: 75px;
+    margin-left: 75px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.abba p {
+    margin-right: 75px;
+    margin-left: 75px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+.kka h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+.kka p {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+}
+
+
+.las {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin-bottom: 20px;
+    width: 500px;
+    height: 30px;
+}
+
+
+.la {
+
+    margin-right: 40px;
+}
+
+.man h1 {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(99, 97, 97);
+    text-transform: uppercase;
+}
+
+.nus p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+    color: #fff;
+}
+
+.manus {
+    background-color: rgb(5, 5, 19);
+    height: 200px;
+}
